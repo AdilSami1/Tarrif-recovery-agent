@@ -14,6 +14,6 @@ a licensed broker to submit.
 
 **Built at:** CaseHacks Hackday, Wilfrid Laurier University (November 2026)
 
-**Team:** Adil Sami, Hamza Iqbal, [third teammate's name]
+**Team:** Adil Sami, Hamza Iqbal, Asghar Khan
 
 📄 See `DutyShield pitch deck.pdf` for the full pitch.
